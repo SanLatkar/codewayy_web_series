@@ -1,0 +1,66 @@
+/* Styling of Buttons*/
+.button {
+    height : 50px;
+    width : 140px;
+    opacity : 0.5;
+    border-radius : 6px;
+    margin : 0px 100px;
+}
+
+button:hover {
+    background-color: whitesmoke;
+    opacity: 0.9;
+}
+
+/* Styling of main title image and heading */
+.title_img {
+    background-color: #cccccc;
+    background-size: cover;
+    background-image: url("Gurukul_img/final.jpg");
+    height: 180px;
+}
+
+#title_heading {
+    color: black;
+    text-align: center;
+    padding: 20px;
+}
+
+/* Styling of box and images in it */
+.box {
+    width: 250px;
+    height: 550px;
+    background: #df5e14;
+    float: left;
+    margin-right: 10px;
+}
+
+.b_img {
+    width: 225px;
+    height: 150px;
+    margin: 13px;
+    
+}
+
+/* Deatils Styling */
+.data {
+    margin-left: 2px;
+}
+
+/* Source link Style */
+#s_link {
+    margin-left: 260px;
+}
+
+/* Anchor tag Style*/
+a:link {
+    font-size : 15px;
+}
+
+a:visit {
+    color: blue;
+}
+
+a:hover {
+    font-size: 20px;
+}
