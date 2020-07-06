@@ -1,0 +1,271 @@
+.navbar
+{
+    background-color: #052733;
+    padding: 18px;
+}
+.navbarele
+{
+    color: white;
+    background-color: transparent;
+    border: thin;
+    font-size: 12px;
+    display: inline-flex;
+}
+.lbut
+{
+    margin-left: 100px;
+}
+.rbut
+{
+    float: right;
+    padding-right: 50px;
+}
+.navbarele:hover
+{
+    background-color: rgb(210, 217, 219);
+    color: black;
+    opacity: 0.8;
+    padding: 5px;
+}
+
+.main
+{
+    float: left;
+    font-family: sans-serif;
+}
+
+/*    styling the 1st row    */
+#first_left
+{
+    padding: 50px;
+    margin: 3px 5px 5px 40px ;
+    background-color: #a8daeb;
+    width: 25%;
+    height: 200px;
+    text-align: center;
+}
+
+#first_left #Download_CV
+{
+    background-color: #a8daeb;
+    border-color: #0b6b8b;
+    border-width: 1px;
+    padding: 10px;
+    margin: 5px;
+    align-content: center;
+    font-size: 12px;
+}
+#first_left #Contact_Me
+{
+    background-color: #a8daeb;
+    border-color: #0b6b8b;
+    border-width: 1px;
+    padding: 10px;
+    margin: 5px;
+    align-content: center;
+    font-size: 12px;
+}
+
+#first_right
+{
+    background-image: url(Images/Bapukuti.jpg);
+    alt: "Profile Picture";
+    background-position: center;
+    background-size: cover;
+    height: 200px;
+    width: 58%;
+    margin: 3px 10px 5px 2px;
+    padding:52px;
+}
+
+/*    styling the 2nd row    */
+
+#Second
+{
+    background-image: url(Images/About_Me.jpg);
+    background-position: top;
+    background-size: cover;
+    padding: 9px -5px 50px 0px;
+    text-align: center;
+    margin: 5px 5px 10px 40px;
+    width: 96.5%;
+}
+
+#Second p
+{
+    font-size: 15px;
+}
+
+/*    styling the 3rd row    */
+
+#Third_left 
+{
+    background-color: #a8daeb;
+    float: left;
+    padding: 10px;
+    text-align: center;
+    margin: 0px 1px 5px 40px;
+    width: 46.8%;
+    height: 300px;
+}
+#Third_left p
+{
+    font-size: 12px;
+}
+#Third_left img {
+    opacity: 5px;
+    background-color: #a8daeb;
+}
+
+#Third_right
+{
+    background-color: #a8daeb;
+    text-align: center;
+    padding: 10px;
+    margin: 0px 10px 5px 1px;
+    width: 46.8%;
+    height: 300px;
+    float: right;
+}
+#Third_right p
+{
+    font-size: 14px;
+}
+
+/*    styling the 4th row    */
+
+#Fourth
+{
+    background-color: #a8daeb;
+    background-position: top;
+    background-size: cover;
+    padding: 9px -5px 50px 0px;
+    text-align: center;
+    margin: 5px 10px 5px 40px;
+    width: 97%;
+    float: right;
+
+}
+
+#Fourth p
+{
+    font-size: 15px;
+}
+
+/*    styling the 5th row   */
+.fifth
+{
+    background-color: #a8daeb;
+    text-align: center;
+    width: 22.5%;
+    height: 250px;
+    margin: 0px 5px 5px 5px;
+    padding: 10px;
+}
+.fifth img
+{
+    width: 70px;
+    height: 100px;
+}
+
+#fifth_web
+{
+    margin-left: 40px;
+}
+.fifth p
+{
+    font-size: 17px;
+    text-align: center;
+    margin: 0px 15px;
+    text-align: center;
+    overflow-wrap: break-word;
+}
+/*    styling the 6th row    */
+
+#Sixth
+{
+    background-color: #a8daeb;
+    background-position: top;
+    background-size: cover;
+    padding: 9px -5px 50px 0px;
+    text-align: center;
+    margin: 5px 10px 5px 40px;
+    width: 97%;
+    float: right;
+
+}
+
+#Sixth p
+{
+    font-size: 15px;
+}
+
+/*    styling the 7th row   */
+.seventh
+{
+    background-color: #a8daeb;
+    text-align: center;
+    width: 23.7%;
+    height: 250px;
+    margin: 0px 5px 5px 5px;
+   
+}
+.seventh img
+{
+    width: 100%;
+    height: 175px;
+}
+#l_seventh
+{
+    margin-left: 40px;
+}
+
+/*    styling the 8th row   */
+#Eighth_left
+{
+    background-color: #00e6b8;
+    height: 400px;
+    width: 48%;
+    margin: 0px 1px 5px 40px;
+}
+#Eighth_right
+{
+    background-color: #a8daeb;
+    height: 400px;
+    width: 48%;
+    margin: 0px 10px 5px 1px;
+    float: right;
+    align-items: center;
+}
+#Eighth_right h3
+{
+    text-align: center;
+}
+#Eighth_right p
+{
+    text-align: center;
+}
+
+#Eighth_right button
+{   
+    background-color: #a8daeb;
+    border-color: #0b6b8b;
+    border-width: 1px;
+    padding: 15px;
+    margin: 2px;
+    font-size: 17px;
+    width: 66%;
+    align-content: center;
+}
+input
+{
+    width: 65%;
+    padding-bottom: 5px;
+    margin-left: 30px;
+    margin-bottom: 5px;
+    align-content: center;
+}
+.form
+{
+    align-content: center;
+}
