@@ -1,0 +1,1 @@
+Output images of Profile_index.html webpage are in this folder.
