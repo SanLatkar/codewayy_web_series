@@ -1,0 +1,1 @@
+This output folder contain output of webpage in Mobile,Tablet and Desktop mode.
