@@ -1,0 +1,1 @@
+This folder contain output of Life-Death component index.html page in Desktop,Mobile,Tablet mode.
